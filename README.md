@@ -11,7 +11,7 @@ This subquery example indexes the amount transferred of each account and it is a
 ### 1. Clone the entire subql-example repository
 
 ```shell
-git clone https://github.com/subquery/tutorials-account-transfers.git
+git clone https://github.com/duchuytb9x/tutorials-account-transfer-reverse-lookupsPhanDucHuy.git
 
 ```
 
